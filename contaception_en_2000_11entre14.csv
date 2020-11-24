@@ -1,0 +1,153 @@
+period;age_of_woman;abortion_rate
+En2000; entre11et14;0.7
+En2000;entre15et19;23.1
+En2000;entre20et24;35.7
+En2000;entre25et29;24.5
+En2000;entre30et34;16.4
+En2000;entre35et39;11.4
+En2000;entre40et44;4.1
+En2000;45et_plus;0.3
+En2001; entre11et14;0.6
+En2001;entre15et19;23.8
+En2001;entre20et24;36.9
+En2001;entre25et29;25.9
+En2001;entre30et34;16.8
+En2001;entre35et39;10.9
+En2001;entre40et44;3.9
+En2001;45et_plus;0.4
+En2002; entre11et14;0.6
+En2002;entre15et19;25.6
+En2002;entre20et24;38.8
+En2002;entre25et29;26.4
+En2002;entre30et34;17.4
+En2002;entre35et39;10.8
+En2002;entre40et44;4.4
+En2002;45et_plus;0.4
+En2003; entre11et14;0.7
+En2003;entre15et19;25.9
+En2003;entre20et24;41.1
+En2003;entre25et29;27.9
+En2003;entre30et34;18
+En2003;entre35et39;11.6
+En2003;entre40et44;4.3
+En2003;45et_plus;0.3
+En2004; entre11et14;0.7
+En2004;entre15et19;25.4
+En2004;entre20et24;39.1
+En2004;entre25et29;26.8
+En2004;entre30et34;17
+En2004;entre35et39;12
+En2004;entre40et44;4.3
+En2005;45et_plus;0.4
+En2005; entre11et14;0.7
+En2005;entre15et19;24.6
+En2005;entre20et24;36.2
+En2005;entre25et29;26.5
+En2005;entre30et34;16.4
+En2005;entre35et39;11
+En2005;entre40et44;4.1
+En2005;45et_plus;0.3
+En2006; entre11et14;0.9
+En2006;entre15et19;25.8
+En2006;entre20et24;36.6
+En2006;entre25et29;26.4
+En2006;entre30et34;16.7
+En2006;entre35et39;10.9
+En2006;entre40et44;4.1
+En2006;45et_plus;0.3
+En2007; entre11et14;0.9
+En2007;entre15et19;26.7
+En2007;entre20et24;37.6
+En2007;entre25et29;26.3
+En2007;entre30et34;17.5
+En2007;entre35et39;11
+En2007;entre40et44;4
+En2007;45et_plus;0.4
+En2008; entre11et14;0.7
+En2008;entre15et19;26.2
+En2008;entre20et24;37.3
+En2008;entre25et29;26.1
+En2008;entre30et34;16.1
+En2008;entre35et39;10.6
+En2008;entre40et44;4.1
+En2008;45et_plus;0.3
+En2009; entre11et14;0.7
+En2009;entre15et19;24.7
+En2009;entre20et24;36.5
+En2009;entre25et29;25.4
+En2009;entre30et34;16.4
+En2009;entre35et39;10.4
+En2009;entre40et44;4.1
+En2009;45et_plus;0.3
+En2010; entre11et14;0.7
+En2010;entre15et19;21.7
+En2010;entre20et24;34.4
+En2010;entre25et29;24.2
+En2010;entre30et34;16
+En2010;entre35et39;10.3
+En2010;entre40et44;4
+En2010;45et_plus;0.3
+En2011; entre11et14;0.6
+En2011;entre15et19;18.3
+En2011;entre20et24;33.7
+En2011;entre25et29;23.7
+En2011;entre30et34;15.8
+En2011;entre35et39;10.3
+En2011;entre40et44;3.6
+En2011;45et_plus;0.3
+En2012; entre11et14;0.4
+En2012;entre15et19;16.3
+En2012;entre20et24;29.5
+En2012;entre25et29;23
+En2012;entre30et34;16
+En2012;entre35et39;10.1
+En2012;entre40et44;3.5
+En2012;45et_plus;0.4
+En2013; entre11et14;0.4
+En2013;entre15et19;13.8
+En2013;entre20et24;28.1
+En2013;entre25et29;22.2
+En2013;entre30et34;15.8
+En2013;entre35et39;10
+En2013;entre40et44;3.8
+En2013;45et_plus;0.3
+En2014; entre11et14;0.5
+En2014;entre15et19;11.5
+En2014;entre20et24;25.2
+En2014;entre25et29;20.7
+En2014;entre30et34;15
+En2014;entre35et39;9.7
+En2014;entre40et44;3.7
+En2014;45et_plus;0.3
+En2015; entre11et14;0.3
+En2015;entre15et19;10.6
+En2015;entre20et24;23.1
+En2015;entre25et29;20.7
+En2015;entre30et34;15.5
+En2015;entre35et39;10.4
+En2015;entre40et44;3.7
+En2015;45et_plus;0.4
+En2016; entre11et14;0.2
+En2016;entre15et19;9.4
+En2016;entre20et24;21.2
+En2016;entre25et29;19.9
+En2016;entre30et34;15.2
+En2016;entre35et39;9.9
+En2016;entre40et44;3.8
+En2016;45et_plus;0.3
+En2017; entre11et14;0.3
+En2017;entre15et19;9.2
+En2017;entre20et24;21.1
+En2017;entre25et29;20.3
+En2017;entre30et34;15
+En2017;entre35et39;10.5
+En2017;entre40et44;3.8
+En2017;45et_plus;0.3
+En2018; entre11et14;0.2
+En2018;entre15et19;8.4
+En2018;entre20et24;19.4
+En2018;entre25et29;19.3
+En2018;entre30et34;15.7
+En2018;entre35et39;10.9
+En2018;entre40et44;4.4
+En2018;45et_plus;0.3
